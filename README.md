@@ -2,9 +2,10 @@
 Основы программирования и анализа данных на языке Python для урбанистов
 
 - Лекция 1. https://colab.research.google.com/drive/1923Z5cSGp4liSADpNEU9NV2qMtppqpmi?usp=sharing
+- Лабораторная 0.
 - Лекция 2. https://colab.research.google.com/drive/1H-sDrSdFzufvTdqa7z-5U0hlVGEu64ur?usp=sharing
 - Лекция 3. https://colab.research.google.com/drive/1H0SjwycQ5Dx1ArL4QHzxLgVoyzBFzCjE?usp=sharing
+- Лабораторная 1. https://colab.research.google.com/drive/1vwpYasYGifiscGdDp6rpa4sfUHv6Tdu7?usp=sharing
 - Лекция 4. https://colab.research.google.com/drive/1Qj-iH5AzezNw-Z1Z_Q-L46e2C4CvdkY-?usp=sharing
 - Лекция 5. https://colab.research.google.com/drive/188D1gLMxViVjkwX3RG0QWZaeNZkxPTwj?usp=sharing
-
-Лабораторная 1. https://colab.research.google.com/drive/1vwpYasYGifiscGdDp6rpa4sfUHv6Tdu7?usp=sharing
+- Лабораторная 2. https://colab.research.google.com/drive/1nAtzu1yjnkyxot-Hf6beXxoN3-zN9HZ_?usp=sharing
