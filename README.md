@@ -3,7 +3,7 @@
 
 ## План работы
 - [Лекция 1](https://colab.research.google.com/drive/1923Z5cSGp4liSADpNEU9NV2qMtppqpmi?usp=sharing)
-  - Лабораторная 0
+  - [Лабораторная 0](https://github.com/aeksei/PythonUrbanITMO/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%200)
 - [Лекция 2](https://colab.research.google.com/drive/1H-sDrSdFzufvTdqa7z-5U0hlVGEu64ur?usp=sharing) 
 - [Лекция 3](https://colab.research.google.com/drive/1H0SjwycQ5Dx1ArL4QHzxLgVoyzBFzCjE?usp=sharing)
   - [Лабораторная 1](https://colab.research.google.com/drive/1vwpYasYGifiscGdDp6rpa4sfUHv6Tdu7?usp=sharing)
